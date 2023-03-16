@@ -2,7 +2,7 @@
 
 ## Goal
 This repository contains the experiments related to the project on Text Similarity for the lecture of **Natural Language Processing**.
-The goal of the project is to evaluate automatic metrics for Automatic Story Generation (ASG). Correlation are computing between human judgements and automatic metric scores in order to rank these metrics. Higher the correlation coefficient, better the metric. However, it exists three diffrerent correlation coeffcients : Pearson, Spearman and Kendall. The project shed light on the need to pay attention to the different cor-
+The goal of the project is to evaluate automatic metrics for Automatic Story Generation (ASG). Correlation are computed between human judgements and automatic metric scores in order to rank these metrics. Higher the correlation coefficient, better the metric. However, it exists three diffrerent correlation coeffcients : Pearson, Spearman and Kendall. The project shed light on the need to pay attention to the different cor-
 relation coefficients as they rank differently the metrics.
 
 ## Structure of the repository
